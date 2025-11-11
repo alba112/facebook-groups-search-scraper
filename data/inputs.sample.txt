@@ -1,0 +1,5 @@
+# Sample input file for Facebook Groups Search Scraper
+# You can add additional keywords here for searching
+Tesla
+Electric Vehicles
+Technology Groups
